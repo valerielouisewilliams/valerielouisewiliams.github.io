@@ -1,0 +1,2 @@
+# This file should be renamed to .nojekyll (remove the .txt extension)
+# It tells GitHub Pages not to use Jekyll processing
