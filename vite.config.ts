@@ -21,7 +21,5 @@ export default defineConfig({
   assetsInclude: ['**/*.svg', '**/*.csv'],
   
   // Set base path for GitHub Pages deployment
-  // If deploying to https://<username>.github.io/<repo>/, set base to '/<repo>/'
-  // If deploying to a custom domain or https://<username>.github.io/, set base to '/'
-  base: process.env.GITHUB_ACTIONS ? '/' : '/',
+  base: '/',
 })
