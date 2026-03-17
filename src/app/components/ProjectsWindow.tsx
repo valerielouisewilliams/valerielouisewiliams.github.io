@@ -37,6 +37,13 @@ export function ProjectsWindow() {
       tags: ["Swift", "SwiftUI"],
       github: "https://github.com/valerielouisewilliams/GTFO",
     },
+    {
+      id: 6,
+      title: "birth-ctrl: Reproductive Health Tracker",
+      description: "A Progressive Web App for reproductive health tracking with iOS-style design and interface, built for privacy and ease of use. I use it every day personally!",
+      tags: ["TypeScript", "React", "Tailwind CSS", "PWA"],
+      github: "https://github.com/valerielouisewilliams/birth-control-tracker",
+    },
   ];
 
   return (
