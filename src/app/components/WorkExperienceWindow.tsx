@@ -7,7 +7,7 @@ export function WorkExperienceWindow() {
       company: "Experian",
       role: "Software Engineer",
       period: "Fall 2026 - Present",
-      location: "Santa Monica, CA",
+      location: "Remote",
       description: [
         "Starting position after graduation",
         "Full stack engineering role",
